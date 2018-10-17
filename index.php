@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Biodata - Personal web">
 <meta name="keywords" content="responsive, creative, html5, css3, personal, onepage personal">
-<meta name="author" content="andriputra">
+<meta name="author" content="putrimariah">
 <link rel="shortcut icon" href="images/logos/favicon.jpg" type="image/x-icon">
 <link href="https://fonts.googleapis.com/css?family=Poppins|Roboto" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="vendor/css/uikit.min.css">
