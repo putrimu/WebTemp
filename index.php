@@ -405,7 +405,7 @@
 					</p>
 				</div>
 				<div class="testi-photo">
-					<img src="images/clients/user.png" alt="Kawsar Ahmed">
+					<img src="images/clients/2.jpg" alt="Kawsar Ahmed">
 				</div>
 				<div class="testi-info">
 					<span class="name">Zafiratul Amalia</span>
@@ -423,10 +423,10 @@
 					</p>
 				</div>
 				<div class="testi-photo">
-					<img src="images/clients/user.png" alt="Selim Rana">
+					<img src="images/clients/4.jpg" alt="Selim Rana">
 				</div>
 				<div class="testi-info">
-					<span class="name">Keiko</span>
+					<span class="name">Nina</span>
 					<div class="position">
 						<span class="meta">If'16</span> - Bandung
 					</div>
@@ -445,10 +445,10 @@
 					</p>
 				</div>
 				<div class="testi-photo">
-					<img src="images/clients/user.png" alt="Daren Summy">
+					<img src="images/clients/1.jpg" alt="Daren Summy">
 				</div>
 				<div class="testi-info">
-					<span class="name">katrine</span>
+					<span class="name">Zahra</span>
 					<div class="position">
 						<span class="meta">Designer</span> - Jakarta
 					</div>
@@ -463,7 +463,7 @@
 					</p>
 				</div>
 				<div class="testi-photo">
-					<img src="images/clients/user.png" alt="Hasin Hyder">
+					<img src="images/clients/3.jpg" alt="Hasin Hyder">
 				</div>
 				<div class="testi-info">
 					<span class="name">Resya</span>
